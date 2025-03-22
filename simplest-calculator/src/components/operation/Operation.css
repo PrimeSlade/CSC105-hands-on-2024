@@ -1,0 +1,32 @@
+.btn{
+    background-color: #1E90FF;
+    border:  1px solid white;
+    color: white;
+    width: auto;
+    padding: 0.5rem;
+    border-radius: 5px;
+    margin-top: 1rem;
+    margin-left: 0.2rem;
+    margin-right: 0.2rem;
+}
+
+.rBtn{
+    background-color: red;
+    border: 1px solid white;
+    color: white;
+    width: auto;
+    padding: 0.5rem;
+    border-radius: 5px;
+}
+
+.btn:hover{
+    background-color: black;
+    color: white;
+    border:  1px solid white;
+}
+
+.rBtn:hover{
+    background-color: white;
+    color: black;
+    border: 1px solid red;
+}

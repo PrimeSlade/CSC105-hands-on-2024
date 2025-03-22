@@ -1,0 +1,48 @@
+.mainItemC{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    margin-top: 1rem;
+    margin-bottom: 1rem ;
+    background-color: lightgray;
+    width: 80%;
+    padding:0.8rem ;
+    border-radius: 8px;
+}
+
+.btnEdit{
+    margin-left: 1rem;
+    margin-right: 0.5rem;
+    background-color: orange;
+    color:  black;
+    border: 1px solid lightgray ;
+    padding: 0.6rem;
+    border-radius: 5px;
+}
+
+.item{
+    margin-left: 1rem;
+    margin-top: 0.6rem;
+   
+}
+
+.btnRemove{
+    background-color: red;
+    color:  white;
+    border: 1px solid lightgray ;
+    padding: 0.6rem;
+    border-radius: 5px;
+}
+
+.inputItem{
+    width: 70%;
+    margin-right: 2rem;
+}
+
+.through{
+    text-decoration: line-through;
+}
+
+.color {
+    background-color: lightgreen;
+}
